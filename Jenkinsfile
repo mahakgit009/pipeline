@@ -21,7 +21,7 @@ pipeline{
               
 			    label{
 		            
-					label "172.31.37.254"
+					label "172.31.36.181"
 		        }	
 	        }
 			
@@ -38,7 +38,7 @@ pipeline{
 			agent{
               
 			    label{
-		             label "172.31.45.123"
+		             label "172.31.39.168"
 		        }	
 	        }
 			steps{
